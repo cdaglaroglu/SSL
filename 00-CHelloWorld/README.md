@@ -1,7 +1,7 @@
 # TP0 - "Hello World" en C23
 
-# Alumno: Cristian Dikran Daglaroglu
-# Github: cdaglaroglu
+**Alumno:** Cristian Dikran Daglaroglu
+**Github:** cdaglaroglu
 
 ## Compilador y versiones utilizadas
 - **Compilador:** Apple Clang
